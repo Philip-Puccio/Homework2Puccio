@@ -22,21 +22,21 @@ The websites I used to help me with this were [weather.com](weather.com), [accuw
 
 I used AI to help me mostly remember how to implement certain things, for example, I used the prompt: Make a table in html that is 3 columns wide and 7 rows tall. I edited it later to put in data I wanted, as well as changed the size it took up on the webpage and the amount of columns, but I also used AI to help write parts I wasn't too familiar with, asking Can you make a button using javascript that turns the emojis from this code into a different emoji
 
-{::comment}
+
 <h1>Today's Weather In Your Area: </h1>
 <h2>
    56 Degrees and Sunny <p style="font-size:48px">
       &#127774; &#x1F31E; &#127774;
    </p>
 <h2> 
-{:/comment}
+
 
 
 
 I also asked Can you turn this code into a button using a bootstrap class? 
-{::comment}
+
 <a href="/SearchResults">7 Day Forecast Ranking</a>
-{:/comment}
+
 To turn the code into a button as shown in the page.
 
 Finally, I asked: how to make a hyperlink in markdown because I was lazy about 10 minutes ago.
